@@ -1,3 +1,21 @@
 baseurl = "http://mattstratton.github.io/"
 languageCode = "en-us"
 title = "mattstratton.io"
+canonifyurls = true
+theme = "cocoa"
+copyright = "© 2015 Matt Stratton"
+
+[permalinks]
+fixed = ":title/"
+posts = ":slug/"
+
+[params]
+Author = "Matt Stratton"
+DateForm = "Jan 2, 2006" # required
+Email = "matt.stratton@gmail.com"
+Facebook = "//facebook.com/matt.stratton"
+GATracker = "UA-66839838-1"
+GitHub = "//github.com/mattstratton"
+Lang = "en" # <body lang="en">
+LinkedIn = "//linkedin.com/in/mattstratton"
+Twitter = "//twitter.com/mattstratton"
