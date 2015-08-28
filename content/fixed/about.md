@@ -5,4 +5,4 @@ title = "about"
 
 +++
 
-This is the technical blog of Matt Stratton. All the personal stuff can be found at [mattstratton.com](http://mattstratton.com).
+This is the *technical* blog of Matt Stratton. All the personal stuff can be found at [mattstratton.com](http://mattstratton.com).
