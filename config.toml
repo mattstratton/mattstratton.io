@@ -4,6 +4,7 @@ title = "mattstratton.io"
 canonifyurls = true
 theme = "cocoa"
 copyright = "© 2015 Matt Stratton"
+disqusShortname = "mattstrattonio"
 
 [permalinks]
 fixed = ":title/"
