@@ -9,7 +9,7 @@
   color: #b7b7b7 !important;
 }
 .accent {
-  color: #21bb5b !important;
+  color: #990000 !important;
 }
 *,
 *:before,
@@ -136,7 +136,7 @@ body {
   }
 }
 .section.header {
-  background-color: #21bb5b;
+  background-color: #990000;
 }
 .section.header .container {
   -webkit-align-items: center;
@@ -237,7 +237,7 @@ body {
   }
 }
 .section.icons {
-  background-color: #21bb5b;
+  background-color: #990000;
 }
 .section.icons .container {
   -webkit-align-items: center;
@@ -453,7 +453,7 @@ body {
   }
 }
 a {
-  color: #21bb5b;
+  color: #990000;
 }
 .section.main .content .markdown h1,
 .section.main .content .markdown h2,
