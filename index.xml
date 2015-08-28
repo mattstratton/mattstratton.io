@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on My New Hugo Site </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 27 Aug 2015 22:26:14 -0500</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <pubDate>Thu, 27 Aug 2015 22:26:14 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <description>&lt;p&gt;This is the technical blog of Matt Stratton. Personal stuff can be found at &lt;a href=&#34;http://mattstratton.com&#34;&gt;mattstratton.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
