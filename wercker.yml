@@ -10,6 +10,6 @@ deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: mattstratton.github.io
+        domain: www.mattstratton.io
         basedir: public
         repo: mattstratton/mattstratton.github.io
