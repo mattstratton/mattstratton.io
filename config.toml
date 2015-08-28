@@ -2,7 +2,7 @@ baseurl = "http://mattstratton.io/"
 languageCode = "en-us"
 title = "mattstratton.io"
 canonifyurls = true
-theme = "cocoa"
+theme = "Cocoa"
 copyright = "© 2015 Matt Stratton"
 disqusShortname = "mattstrattonio"
 
