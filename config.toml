@@ -1,4 +1,4 @@
-baseurl = "http://mattstratton.io/"
+baseurl = "http://www.mattstratton.io/"
 languageCode = "en-us"
 title = "mattstratton.io"
 canonifyurls = true
@@ -20,3 +20,4 @@ GitHub = "//github.com/mattstratton"
 Lang = "en" # <body lang="en">
 LinkedIn = "//linkedin.com/in/mattstratton"
 Twitter = "//twitter.com/mattstratton"
+WebfontsFile = "css/mywebfontsfile.css"
