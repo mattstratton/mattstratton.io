@@ -6,3 +6,5 @@ title = "about"
 +++
 
 This is the *technical* blog of Matt Stratton. All the personal stuff can be found at [mattstratton.com](http://mattstratton.com).
+
+If you have feedback or edits to any of my posts, pull requests are welcome at [http://github.com/mattstratton/mattstratton.io](http://github.com/mattstratton/mattstratton.io).
