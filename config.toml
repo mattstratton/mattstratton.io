@@ -5,6 +5,8 @@ canonifyurls = true
 theme = "Cocoa"
 copyright = "© 2015 Matt Stratton"
 disqusShortname = "mattstrattonio"
+builddrafts = false
+
 
 [permalinks]
 fixed = ":title/"
