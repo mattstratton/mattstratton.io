@@ -1,7 +1,7 @@
 +++
 date = "2015-08-28T02:20:39-05:00"
 Tags = ["chef"]
-title = "iteratating through word arrays is your friend in chef"
+title = "iterating through word arrays is your friend in chef"
 
 +++
 
