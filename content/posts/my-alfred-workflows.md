@@ -1,7 +1,6 @@
 +++
 date = "2016-09-06T08:41:20-05:00"
-draft = false
-title = "My Alfred Workflows"
+title = "my alfred workflows"
 
 +++
 
