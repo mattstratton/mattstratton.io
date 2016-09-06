@@ -1,13 +1,7 @@
 <head>
 {{ partial "meta.html" . }}
-<base href="{{ .Site.BaseUrl }}">
 <title>
-{{ $url := replace .Permalink ( printf "%s" .Site.BaseUrl) "" }}
-{{ if eq $url "/" }}
-    {{ .Site.Title }}
-{{ else }}
-    {{ if .Params.Heading }} {{ .Params.Heading }} {{ else }} {{ .Title }} {{ end }}
-{{ end }}
+{{ .Title }}
 </title>
 <link rel="canonical" href="{{ .Permalink }}">
 {{ partial "head_includes.html" . }}
